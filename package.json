@@ -6,7 +6,7 @@
     "concurrently": "^5.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.4.4"
   },
   "scripts": {
     "watch": "concurrently \"yarn watch:server\" \"yarn watch:client\"",
